@@ -1,2 +1,1 @@
-# Repos_Prueba
-Prueba
+#Look at this [Thursday's Detector](https://www.carlosmallavia.es)
